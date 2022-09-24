@@ -1,0 +1,6 @@
+Saan Githubi tulevikus kasutada teistega koos töötamiseks koodi kirjutamisel ja teiste Projektide kasutamisel.
+
+Github ajalugu:
+Github platformi arendus algas Okt 19, 2007.
+Lehekülg oli avalik 2008. a. Aprillis.
+Selle arendajad olid: Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon.
